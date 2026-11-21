@@ -2,10 +2,10 @@
   <img src="assets/banner.svg" alt="SyncEdge Network — стабильное подключение к интернету на всех ваших устройствах" width="100%">
 </a>
 
-<br>
-
-SyncEdge сам подбирает подходящий способ подключения, чтобы сайты, приложения и онлайн-сервисы
-работали стабильно и предсказуемо. Без настроек серверов и протоколов.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lead-dark.svg">
+  <img src="assets/lead-light.svg" alt="SyncEdge сам подбирает подходящий способ подключения, чтобы сайты, приложения и онлайн-сервисы работали стабильно и предсказуемо. Без настроек серверов и протоколов." width="100%">
+</picture>
 
 <p>
   <a href="https://sync-edge.net/auth#register"><img src="assets/button-start.svg" alt="Начать пользоваться" height="52"></a>
