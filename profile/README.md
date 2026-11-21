@@ -4,29 +4,53 @@
 
 <br>
 
-SyncEdge автоматически подбирает подходящий способ подключения и помогает сайтам, приложениям и
-онлайн-сервисам работать стабильнее и предсказуемее.
+SyncEdge сам подбирает подходящий способ подключения, чтобы сайты, приложения и онлайн-сервисы
+работали стабильно и предсказуемо. Без настроек серверов и протоколов.
 
 <p>
   <a href="https://sync-edge.net/auth#register"><img src="assets/button-start.svg" alt="Начать пользоваться" height="52"></a>
   &nbsp;
-  <a href="https://t.me/SyncEdgeBot"><img src="assets/button-telegram.svg" alt="Telegram-бот" height="52"></a>
+  <a href="https://t.me/SyncEdgeBot"><img src="assets/button-telegram.svg" alt="Открыть бота в Telegram" height="52"></a>
 </p>
+
+<br>
 
 ### Почему SyncEdge
 
-| | |
-| --- | --- |
-| **Стабильное соединение**<br>Распределённая инфраструктура помогает выбирать подходящий маршрут для подключения. | **Простое подключение**<br>Настройка занимает несколько минут: готовая ссылка, QR-код и пошаговая инструкция. |
-| **Несколько устройств**<br>Один аккаунт для смартфона, планшета, компьютера и других поддерживаемых устройств. | **Автоматический выбор**<br>Не нужно разбираться в серверах и протоколах — сервис предложит подходящий вариант подключения. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icon-route.svg" width="40" height="40" alt=""><br>
+      <b>Стабильное соединение</b><br>
+      Распределённая инфраструктура выбирает подходящий маршрут для каждого подключения.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icon-qr.svg" width="40" height="40" alt=""><br>
+      <b>Подключение за пару минут</b><br>
+      Готовая ссылка, QR-код и пошаговая инструкция в личном кабинете.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icon-devices.svg" width="40" height="40" alt=""><br>
+      <b>Один аккаунт — все устройства</b><br>
+      Смартфон, планшет, компьютер и другие поддерживаемые устройства.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icon-auto.svg" width="40" height="40" alt=""><br>
+      <b>Автоматический выбор</b><br>
+      Не нужно разбираться в серверах и протоколах — сервис предложит вариант сам.
+    </td>
+  </tr>
+</table>
 
 ### Ссылки
 
-- [sync-edge.net](https://sync-edge.net) — сайт и личный кабинет
-- [Статус сервиса](https://sync-edge.net/status)
-- Telegram: [@SyncEdgeBot](https://t.me/SyncEdgeBot) — управление сервисом,
-  [@SyncEdgeSupportBot](https://t.me/SyncEdgeSupportBot) — поддержка
-- Почта: support@sync-edge.net
+- **Сайт и личный кабинет** — [sync-edge.net](https://sync-edge.net)
+- **Статус сервиса** — [sync-edge.net/status](https://sync-edge.net/status)
+- **Управление сервисом** — [@SyncEdgeBot](https://t.me/SyncEdgeBot) в Telegram
+- **Поддержка** — [@SyncEdgeSupportBot](https://t.me/SyncEdgeSupportBot) или [support@sync-edge.net](mailto:support@sync-edge.net)
 
-Приложения SyncEdge скачивайте только с [sync-edge.net](https://sync-edge.net). Сообщить о
-проблеме безопасности — по правилам из [SECURITY.md](https://github.com/SyncEdgeNetwork/.github/blob/main/SECURITY.md).
+> [!IMPORTANT]
+> Скачивайте приложения SyncEdge только с [sync-edge.net](https://sync-edge.net).
+> О проблемах безопасности сообщайте по правилам из [SECURITY.md](https://github.com/SyncEdgeNetwork/.github/blob/main/SECURITY.md).
